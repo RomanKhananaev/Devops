@@ -1,5 +1,5 @@
 <html>
-<head><title>Fisrt JSP</title></head>
+<head><title>JSP</title></head>
 <body>
   <div>
   <%
