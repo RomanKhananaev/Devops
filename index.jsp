@@ -1,4 +1,3 @@
-<html>
 <head><title>Fisrt JSP</title></head>
 <body>
   <%
