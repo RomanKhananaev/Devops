@@ -1,5 +1,6 @@
-<head><title>Fisrt JSP</title></head>
-<body>
+<html>
+<head2><title>Fisrt JSP</title></head>
+<bodydf>
   <%
     double num = Math.random();
     if (num > 0.95) {
